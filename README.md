@@ -94,19 +94,6 @@ Select Payment → Validate Transaction → Store in Database
         ↓
 Generate Receipt → Update Transaction History
 
-📂 Project Structure
-BITPay/
-│
-├── manage.py
-├── requirements.txt
-├── bitpay_app/
-│   ├── models.py
-│   ├── views.py
-│   ├── urls.py
-│   ├── templates/
-│   ├── static/
-│
-└── db.sqlite3
 
 🚀 Local Setup
 git clone https://github.com/your-username/BITPay.git
