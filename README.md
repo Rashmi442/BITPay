@@ -104,31 +104,22 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 
-
 Access the application at:
-
 http://127.0.0.1:8000/
 
 🎯 Project Goals
 
 Demonstrate structured backend design
-
 Implement authentication and authorization
-
 Model secure transaction storage
-
 Understand payment workflow architecture
-
 Build a functional full-stack web system
 
 🔮 Future Improvements
 
 Integration with real payment gateways (Stripe / Razorpay)
-
 Production-level deployment
-
 Improved UI/UX
-
 Email-based OTP integration
 
 Enhanced logging and monitoring
