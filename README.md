@@ -57,21 +57,7 @@ Transaction monitoring
 
 Frontend
 
-HTML
-
-CSS
-
-Bootstrap
-
-JavaScript
-
-Backend
-
-Django
-
-Database
-
-SQLite
+HTML, CSS, Bootstrap, JavaScript, Backend, Django, Database, SQLite
 
 🔒 Security Concepts Implemented
 
